@@ -8,10 +8,10 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with tabbed bro
 
 ## Download
 
-[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/gPYt7sCliblK6xVGs7?dl=1)
+[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)
 
 ## Support
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.ptsource.eu/)
 
-[![Visit homepage.](https://webstats.ptsource.eu/github-platform.gif)](https://www.ptsource.eu/)
+[![Visit homepage.](https://webstats.ptsource.eu/github-ptlynx.gif)](https://www.ptsource.eu/)
