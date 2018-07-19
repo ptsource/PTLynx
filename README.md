@@ -6,6 +6,11 @@ Lynx is a customizable text-based web browser for use on cursor-addressable char
 
 PTLynx is a PTSource port for windows of the famous Lynx browser with tabbed browsing, pdf reader, image viewer, X3D viewer, video player and TOR ready.
 
+## Screenshots
+
+![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/01.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/02.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/03.PNG)
+![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/04.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/05.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/06.PNG)
+
 ## Download
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)
