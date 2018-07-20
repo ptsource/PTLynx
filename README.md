@@ -14,6 +14,17 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with tabbed bro
 ![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/01.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/02.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/03.PNG)
 ![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/04.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/05.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/06.PNG)
 
+## Features 
+
+* Tor ready for browsing privacy
+* PDF Reader
+* Image viewer
+* Full media player (audio & video)
+* X3D viewer
+* Mutt integration
+* Tabbed browsing
+* Bandwidth manager
+
 ## Download
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)
