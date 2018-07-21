@@ -27,7 +27,7 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with tabbed bro
 
 ## Tor Network
 
-or is free software for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Routing”. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
+Tor is free software for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Routing”. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
 
 ## Download
 
