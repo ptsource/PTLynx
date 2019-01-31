@@ -3,7 +3,7 @@
 Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of May 2017, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
 
 # PTLynx
-### Current version 1.0 released 20/07/2018 compiled and tested under Windows 10
+### Current version 2.0 released 31/01/2019 compiled and tested under Windows 10
 
 PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready.
 
