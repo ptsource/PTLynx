@@ -36,4 +36,4 @@ Tor is free software for enabling anonymous communication. The name is derived f
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.ptsource.eu/)
 
-[![Visit homepage.](https://cdn.ptsource.eu/github-ptlynx.gif)](https://www.ptsource.eu/)
+[![Visit homepage.](https://status.ptsource.eu/github-ptlynx.gif)](https://www.ptsource.eu/)
