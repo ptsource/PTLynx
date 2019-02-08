@@ -1,3 +1,7 @@
+# Tor Network
+
+Tor is free software for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Routing”. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
+
 # Lynx
 
 Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of May 2017, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
@@ -24,9 +28,6 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabb
 * Tabbed browsing
 * Bandwidth manager
 
-## Tor Network
-
-Tor is free software for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Routing”. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
 
 ## Download
 
