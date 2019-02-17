@@ -36,5 +36,3 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabb
 ## Support
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.ptsource.eu/)
-
-[![Visit homepage.](https://status.ptsource.eu/github-ptlynx.gif)](https://www.ptsource.eu/)
