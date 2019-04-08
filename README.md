@@ -20,7 +20,7 @@ PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabb
 
 ## Features 
 
-* [Tor ready for browsing privacy] (https://www.torproject.org/)
+* [Tor ready for browsing privacy](https://www.torproject.org/)
 * PDF Reader
 * Image viewer
 * Full media player (audio & video)
