@@ -4,7 +4,7 @@ Tor is free software for enabling anonymous communication. The name is derived f
 
 # Lynx
 
-Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As January 2019, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
+Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of January 2019, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
 
 # PTLynx
 ### Current version 3 released 08/04/2019 with Tor 0.3.5.8 compiled and tested under Windows 10
