@@ -1,7 +1,3 @@
-# Tor Network
-
-Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
-
 # Lynx
 
 Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of January 2019, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
@@ -9,7 +5,7 @@ Lynx is a customizable text-based web browser for use on cursor-addressable char
 # PTLynx
 ### Current version 3 released 05/09/2019 with Tor 0.3.5.8 compiled and tested under Windows 10
 
-PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready.
+PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
 
 [![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-3-red.svg)](https://wiki.ptsource.eu/software/downloads)  [![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/software/downloads) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/ptlynx/start)
 
