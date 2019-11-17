@@ -7,6 +7,9 @@ Lynx is a customizable text-based web browser for use on cursor-addressable char
 
 PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
 
+### Note
+New versions do not start Tor panel by default. To enable Tor browsing change launch.ini from start.exe to startwtor.exe and enable the proxy lines in PTLynx.cfg.
+
 [![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-4-red.svg)](https://wiki.ptsource.eu/software/downloads)  [![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/software/downloads) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/ptlynx/start)
 
 ## Screenshots
