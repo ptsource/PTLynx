@@ -27,6 +27,14 @@ Versions after 3 do not start Tor panel by default. To enable Tor browsing chang
 * Tabbed browsing
 * Bandwidth manager
 
+## Uses and Advantages 
+
+* Reading documentation
+* Downloading files
+* Access websites without graphical displays
+* No ads, no scripts
+* Fast, safe browsing of web sites
+
 
 ## Download
 
