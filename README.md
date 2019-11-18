@@ -29,7 +29,7 @@ Versions after 3 do not start Tor panel by default. To enable Tor browsing chang
 
 ## Uses and Advantages 
 
-* Reading documentation
+* Reading documentation online
 * Downloading files
 * Access websites without graphical displays
 * No ads, no scripts
