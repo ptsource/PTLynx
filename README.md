@@ -2,10 +2,10 @@
 
 Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of January 2019, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
 
-# PTLynx
+# PTSource PTLynx
 ### Current version 4 released 17/11/2019 with latest Tor 0.4.1.6 compiled under Windows 10
 
-PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
+PTSource PTLynx is a PTSource port for windows of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
 
 ### Note
 Versions after 3 do not start Tor panel by default. To enable Tor browsing change launch.ini from start.exe to startwtor.exe and enable the proxy lines in PTLynx.cfg.
