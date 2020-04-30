@@ -42,4 +42,4 @@ Versions after 3 do not start Tor panel by default. To enable Tor browsing chang
 
 ## Support
 
-[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/)
+[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/software/ptlynx/start)
