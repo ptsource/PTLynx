@@ -14,8 +14,8 @@ Versions after 3 do not start Tor panel by default. To enable Tor browsing chang
 
 ## Screenshots
 
-![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/01.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/02.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/03.PNG)
-![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/04.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/05.PNG)![PTLynx](https://raw.githubusercontent.com/ptsource/PTLynx/master/images/06.PNG)
+<img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/01.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/02.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/03.PNG" width="33%">
+<img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/04.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/05.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PTLynx/master/images/06.PNG" width="33%">
 
 ## Features 
 
