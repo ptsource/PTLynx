@@ -10,7 +10,7 @@ PTSource PTLynx is a PTSource port for windows of the famous Lynx browser with m
 ### Note
 Versions after 3 do not start Tor panel by default. To enable Tor browsing change launch.ini from start.exe to startwtor.exe and enable the proxy lines in PTLynx.cfg.
 
-[![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-4-red.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)  [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/ptlynx/start)
+[![Maintenance](/images/maintained.svg)]()  [![You can download here.](/images/version-4-red.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)  [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/ptlynx/start)
 
 ## Screenshots
 
