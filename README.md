@@ -19,7 +19,6 @@ Versions after 3 do not start Tor panel by default. To enable Tor browsing chang
 
 ## Features 
 
-* [Tor ready for browsing privacy](https://www.torproject.org/)
 * PDF Reader
 * Image viewer
 * Full media player (audio & video)
