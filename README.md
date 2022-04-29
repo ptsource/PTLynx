@@ -11,7 +11,9 @@ PTSource Lynx is a PTSource port for Windows x86 and x64 of the famous Lynx brow
 |         :---:         | 
 | Windows 7, 8, 8.1, 10, 11 platforms x86 or x64. | 
 
-[![Maintenance](/images/maintained.svg)]()  [![You can download here.](/images/version-4-red.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)  [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/ptlynx/start)
+## Download
+
+[![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/ptlynx/start)  [![You can download here.](/images/version-4-red.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)  [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/ptlynx/start)
 
 ## Screenshots
 
@@ -43,11 +45,6 @@ you might get a warning. You should dismiss it and continue.
     and then "run anyway".
 -   Follow the instructions in the installer.
 -   You can now launch the software from your desktop.
-
-
-## Download
-
-[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/zNmttApGqm9lzSNKsb?dl=1)
 
 ## Support
 
