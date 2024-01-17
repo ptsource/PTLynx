@@ -3,7 +3,7 @@
 Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of January 2019, it is the oldest web browser still in general use and active development,having started in 1992. Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number.
 
 # PTSource Lynx
-### Current version 4 released 23/08/2023 with latest Tor 0.4.7.14 for Windows
+### Current version 4 updated 23/08/2023 with latest Tor 0.4.7.14 for Windows
 
 PTSource Lynx is a PTSource port for Windows x86 and x64 of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
 
