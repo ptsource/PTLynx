@@ -38,7 +38,7 @@ PTSource Lynx is a PTSource port for Windows x86 and x64 of the famous Lynx brow
 * No ads, no scripts
 * Fast, safe browsing of web sites
 
-## Support
+## Homepage
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/ptlynx/start)
 
