@@ -4,7 +4,7 @@ Lynx is a customizable text-based web browser for use on cursor-addressable char
 
 # PTSource Lynx
 ### Current version 4 with latest Tor 0.4.7.14 Final for Windows
-#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates and change logs.
+#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates, change logs or to buy us a coffee.
 
 PTSource Lynx is a PTSource port for Windows x86 and x64 of the famous Lynx browser with mutt, tabbed browsing, pdf reader, image viewer, video player and TOR ready. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. 
 
