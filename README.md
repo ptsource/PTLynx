@@ -45,4 +45,7 @@ PTSource Lynx is a PTSource port for Windows x86 and x64 of the famous Lynx brow
 <p align="center" width="100%">
     <a href="https://store.ptsource.eu/soft/ptlynx/start" target="_blank"><img src="/images/bannerptlynx.png" alt="PTSource Lynx"></a> 
 </p>
+<p align="center" width="100%">
+<img src="https://raw.githubusercontent.com/ptsource/MiniVMDOS/master/images/madeeu.png"><img src="https://raw.githubusercontent.com/ptsource/MiniVMDOS/master/images/noai.png">
+</p>
 
